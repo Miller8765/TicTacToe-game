@@ -1,10 +1,10 @@
-Tic-Tac-Toe Game 🎮
+Tic-Tac-Toe Game 
 
 This is a simple, command-line Tic-Tac-Toe game created in Python. It's built with an object-oriented approach, separating the game logic from the board's state and functions.
 
 -----
 
-  Features ✨
+  Features 
 
   * **Two-player mode:** Players can take turns entering their moves.
   * **Input validation:** The game checks for valid moves, preventing players from choosing an occupied space or an out-of-range position.
@@ -14,13 +14,13 @@ This is a simple, command-line Tic-Tac-Toe game created in Python. It's built wi
 
 -----
 
-   Prerequisites 🛠️
+   Prerequisites 
 
 To run this game, you only need **Python 3.x** installed on your computer.
 
 -----
    
-    How to Play ▶️
+    How to Play 
 
 1.  **Clone the repository:**
     ```bash
@@ -38,7 +38,7 @@ To run this game, you only need **Python 3.x** installed on your computer.
 
 -----
 
-## Project Structure 📁
+## Project Structure 
 
 The game is organized into two main files for better modularity:
 
@@ -47,7 +47,7 @@ The game is organized into two main files for better modularity:
 
 -----
 
-## Contributing 🤝
+## Contributing 
 
 Feel free to fork this repository and submit pull requests to improve the game. You could add features like a single-player mode against an AI or a graphical user interface.
 
