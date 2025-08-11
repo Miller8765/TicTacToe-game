@@ -32,7 +32,7 @@ To run this game, you only need **Python 3.x** installed on your computer.
     ```
 3.  **Run the game from your terminal:**
     ```bash
-    python game.py
+    python tictactoe.py
     ```
 4.  Follow the on-screen instructions. When prompted, enter the **row** and **column** of the square you want to mark. The coordinates start at `0, 0` in the top-left corner.
 
@@ -43,7 +43,7 @@ To run this game, you only need **Python 3.x** installed on your computer.
 The game is organized into two main files for better modularity:
 
   * **`board.py`**: Contains the **`Board` class**, which manages the game's state. It handles displaying the board, placing symbols, and checking for win or draw conditions.
-  * **`game.py`**: This is the main entry point for the game. It manages the game loop, switches between players, handles user input, and calls methods from the `Board` class to update and display the game.
+  * **`tictactoe.py`**: This is the main entry point for the game. It manages the game loop, switches between players, handles user input, and calls methods from the `Board` class to update and display the game.
 
 -----
 
@@ -53,6 +53,4 @@ Feel free to fork this repository and submit pull requests to improve the game. 
 
 -----
 
-## License 📜
 
-This project is licensed under the MIT License.
